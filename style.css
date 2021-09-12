@@ -1,0 +1,28 @@
+.card-title {
+  font-weight: bolder;
+  font-size: 20px;
+  color: brown;
+  text-align: center;
+}
+.card-text {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.navbar-brand {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bolder;
+  letter-spacing: 2px;
+  color: burlywood;
+}
+.btn {
+  width: 50%;
+  margin-left: 30%;
+  margin-bottom: 10%;
+}
+footer {
+  text-align: center;
+  font-weight: bold;
+  padding: 2px;
+  background: black;
+  color: white;
+}
